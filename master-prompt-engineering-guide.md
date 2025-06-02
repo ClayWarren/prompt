@@ -1,4 +1,4 @@
-# Master-Level Prompt Engineering: Complete Anthropic Techniques Demo
+# Prompt Engineering: Complete Anthropic Techniques Demo
 
 This prompt demonstrates **all major Anthropic prompt engineering techniques** integrated into a single, production-ready example. Perfect for learning advanced prompting strategies and understanding how professional-grade prompts are constructed.
 
