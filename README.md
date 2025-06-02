@@ -1,4 +1,4 @@
-## 🧠 Prompt Engineering Mastery
+## Prompt Engineering Mastery
 
 ### [Master-Level Prompt Engineering Guide](./prompt-engineering/master-prompt-engineering-guide.md)
 A comprehensive demonstration of all Anthropic prompt engineering techniques integrated into a single, production-ready example. Perfect for:
