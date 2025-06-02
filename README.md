@@ -1,6 +1,6 @@
 ## Prompt Engineering Mastery
 
-### [Master-Level Prompt Engineering Guide](./prompt-engineering/master-prompt-engineering-guide.md)
+### [Master-Level Prompt Engineering Guide](./master-prompt-engineering-guide.md)
 A comprehensive demonstration of all Anthropic prompt engineering techniques integrated into a single, production-ready example. Perfect for:
 - Learning advanced prompting strategies
 - Understanding professional-grade prompt construction
